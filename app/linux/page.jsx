@@ -9,7 +9,7 @@ const Page = () => {
       title: "Important Preparations: Server Update and Ubuntu Version",
       content:
         "Before proceeding with the installation of Odoo on your Ubuntu server, it is imperative to ensure that your server system is up to date and fully upgraded. This step helps in patching security vulnerabilities and ensures that you have the latest system updates, which are crucial for a secure and efficient installation process. It's highly recommended to carry out this Odoo installation on Ubuntu 22.04 LTS (Long Term Support). LTS versions provide an extended support period, ensuring stability and security for your Odoo system. Be sure to verify that your server is running Ubuntu 22.04 LTS before proceeding with the installation.",
-      imagePath: "/images/0.png",
+      imagePath: "https://hamza007-pro.github.io/Odoo-Guide/images/0.png",
       commands: null,
     },
     {
@@ -155,7 +155,7 @@ WantedBy=multi-user.target`,
       title: "Step 12: Access and Initial Configuration",
       content:
         "With Odoo now set up and running, you can access your Odoo instance via a web browser [http://localhost:8069]. Here, you'll perform the initial configuration steps that are pivotal to your specific business needs. You can create databases and import demo data to begin leveraging Odoo's powerful features, including CRM, inventory management, accounting, and more.",
-      imagePath: "/images/10.png",
+      imagePath: "https://hamza007-pro.github.io/Odoo-Guide/images/10.png",
       code: null,
       commands: null,
     },
