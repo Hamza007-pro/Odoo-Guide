@@ -1,0 +1,5 @@
+{
+  "/linux/page": "app/linux/page.js",
+  "/page": "app/page.js",
+  "/windows/page": "app/windows/page.js"
+}
