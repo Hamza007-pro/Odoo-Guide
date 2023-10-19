@@ -26,7 +26,7 @@ function Home() {
           <Image
             width={100}
             height={100}
-            src={"/images/software_installer.svg"}
+            src={"https://hamza007-pro.github.io/Odoo-Guide/images/software_installer.svg"}
           ></Image>
           <h1 className="text-primary text-4xl font-bold mb-2 uppercase">
             Odoo Installation Guide
@@ -45,7 +45,7 @@ function Home() {
         <div className="flex-1 flex justify-end">
           <Image
             className="drop-shadow-md rounded-lg"
-            src={"/images/odoo.jpg"}
+            src={"https://hamza007-pro.github.io/Odoo-Guide/images/odoo.jpg"}
             width={500}
             height={700}
           ></Image>
@@ -66,7 +66,7 @@ function Home() {
                 className="m-auto"
                 width={64}
                 height={64}
-                src={"/images/windows.svg"}
+                src={"https://hamza007-pro.github.io/Odoo-Guide/images/windows.svg"}
               ></Image>
               <h1 className="text-center text-primary text-xl">Windows</h1>
             </Link>
