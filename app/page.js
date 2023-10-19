@@ -77,7 +77,7 @@ function Home() {
                 className="m-auto"
                 width={64}
                 height={64}
-                src={"/images/linux.svg"}
+                src={"https://hamza007-pro.github.io/Odoo-Guide/images/linux.svg"}
               ></Image>
               <h1 className="text-center text-primary text-xl">Linux</h1>
             </Link>
